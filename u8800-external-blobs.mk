@@ -43,3 +43,13 @@ PRODUCT_COPY_FILES += \
 	vendor/huawei/u8800/proprietary/external/lib/libOpenVG.so:system/lib/libOpenVG.so \
 	vendor/huawei/u8800/proprietary/external/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
 	vendor/huawei/u8800/proprietary/external/lib/libsc-a3xx.so:system/lib/libsc-a3xx.so
+
+# VIDC 720P Firmware
+PRODUCT_COPY_FILES += \
+	vendor/huawei/u8800/proprietary/external/etc/firmware/vidc_720p_command_control.fw:system/etc/firmware/vidc_720p_command_control.fw \
+	vendor/huawei/u8800/proprietary/external/etc/firmware/vidc_720p_h263_dec_mc.fw:system/etc/firmware/vidc_720p_h263_dec_mc.fw \
+	vendor/huawei/u8800/proprietary/external/etc/firmware/vidc_720p_h264_dec_mc.fw:system/etc/firmware/vidc_720p_h264_dec_mc.fw \
+	vendor/huawei/u8800/proprietary/external/etc/firmware/vidc_720p_h264_enc_mc.fw:system/etc/firmware/vidc_720p_h264_enc_mc.fw \
+	vendor/huawei/u8800/proprietary/external/etc/firmware/vidc_720p_mp4_dec_mc.fw:system/etc/firmware/vidc_720p_mp4_dec_mc.fw \
+	vendor/huawei/u8800/proprietary/external/etc/firmware/vidc_720p_mp4_enc_mc.fw:system/etc/firmware/vidc_720p_mp4_enc_mc.fw \
+	vendor/huawei/u8800/proprietary/external/etc/firmware/vidc_720p_vc1_dec_mc.fw:system/etc/firmware/vidc_720p_vc1_dec_mc.fw
