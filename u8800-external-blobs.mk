@@ -55,4 +55,10 @@ PRODUCT_COPY_FILES += \
 	vendor/huawei/u8800/proprietary/external/etc/firmware/vidc_720p_h264_enc_mc.fw:system/etc/firmware/vidc_720p_h264_enc_mc.fw \
 	vendor/huawei/u8800/proprietary/external/etc/firmware/vidc_720p_mp4_dec_mc.fw:system/etc/firmware/vidc_720p_mp4_dec_mc.fw \
 	vendor/huawei/u8800/proprietary/external/etc/firmware/vidc_720p_mp4_enc_mc.fw:system/etc/firmware/vidc_720p_mp4_enc_mc.fw \
-	vendor/huawei/u8800/proprietary/external/etc/firmware/vidc_720p_vc1_dec_mc.fw:system/etc/firmware/vidc_720p_vc1_dec_mc.fw
+	vendor/huawei/u8800/proprietary/external/etc/firmware/vidc_720p_vc1_dec_mc.fw:system/etc/firmware/vidc_720p_vc1_dec_mc.fw \
+	vendor/huawei/u8800/proprietary/external/etc/firmware/wlan/cfg.dat:system/etc/firmware/wlan/cfg.dat \
+	vendor/huawei/u8800/proprietary/external/etc/firmware/wlan/qcom_cfg.ini:system/etc/firmware/wlan/qcom_cfg.ini \
+	vendor/huawei/u8800/proprietary/external/etc/firmware/wlan/qcom_fw.bin:system/etc/firmware/wlan/qcom_fw.bin \
+	vendor/huawei/u8800/proprietary/external/etc/firmware/wlan/qcom_wapi_fw.bin:system/etc/firmware/wlan/qcom_wapi_fw.bin \
+	vendor/huawei/u8800/proprietary/external/etc/firmware/wlan/qcom_wlan_nv.bin:system/etc/firmware/wlan/qcom_wlan_nv.bin \
+	vendor/huawei/u8800/proprietary/external/lib/modules/wlan.ko:system/lib/modules/wlan.ko
