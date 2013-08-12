@@ -61,4 +61,5 @@ PRODUCT_COPY_FILES += \
 	vendor/huawei/u8800/proprietary/external/etc/firmware/wlan/qcom_fw.bin:system/etc/firmware/wlan/qcom_fw.bin \
 	vendor/huawei/u8800/proprietary/external/etc/firmware/wlan/qcom_wapi_fw.bin:system/etc/firmware/wlan/qcom_wapi_fw.bin \
 	vendor/huawei/u8800/proprietary/external/etc/firmware/wlan/qcom_wlan_nv.bin:system/etc/firmware/wlan/qcom_wlan_nv.bin \
-	vendor/huawei/u8800/proprietary/external/lib/modules/wlan.ko:system/lib/modules/wlan.ko
+	vendor/huawei/u8800/proprietary/external/lib/modules/wlan.ko:system/lib/modules/wlan.ko \
+	vendor/huawei/u8800/proprietary/external/bin/hci_qcomm_init:system/bin/hci_qcomm_init
