@@ -52,6 +52,7 @@ PRODUCT_COPY_FILES += \
 	vendor/huawei/u8800/pulled/system/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
 	vendor/huawei/u8800/pulled/system/lib/libwms.so:system/lib/libwms.so \
 	vendor/huawei/u8800/pulled/system/lib/libwmsts.so:system/lib/libwmsts.so \
+	vendor/huawei/u8800/pulled/recovery/root/sbin/rmt_storage:recovery/root/sbin/rmt_storage \
 	vendor/huawei/u8800/pulled/system/lib/libaudcal.so:system/lib/libaudcal.so \
 	vendor/huawei/u8800/pulled/system/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
 	vendor/huawei/u8800/pulled/system/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
