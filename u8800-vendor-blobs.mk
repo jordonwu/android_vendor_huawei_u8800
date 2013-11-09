@@ -58,8 +58,6 @@ PRODUCT_COPY_FILES += \
 	vendor/huawei/u8800/pulled/system/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
 	vendor/huawei/u8800/pulled/system/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
 	vendor/huawei/u8800/pulled/system/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
-	vendor/huawei/u8800/pulled/system/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
-	vendor/huawei/u8800/pulled/system/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
 	vendor/huawei/u8800/pulled/system/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
 	vendor/huawei/u8800/pulled/system/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
 	vendor/huawei/u8800/pulled/system/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
@@ -70,16 +68,13 @@ PRODUCT_COPY_FILES += \
 	vendor/huawei/u8800/pulled/system/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
 	vendor/huawei/u8800/pulled/system/lib/egl/libplayback_adreno200.so:system/lib/egl/libplayback_adreno200.so \
 	vendor/huawei/u8800/pulled/system/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
-	vendor/huawei/u8800/pulled/system/lib/libc2d2_a3xx.so:system/lib/libc2d2_a3xx.so \
 	vendor/huawei/u8800/pulled/system/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
 	vendor/huawei/u8800/pulled/system/lib/libC2D2.so:system/lib/libC2D2.so \
 	vendor/huawei/u8800/pulled/system/lib/libgsl.so:system/lib/libgsl.so \
-	vendor/huawei/u8800/pulled/system/lib/libllvm-a3xx.so:system/lib/libllvm-a3xx.so \
 	vendor/huawei/u8800/pulled/system/lib/libllvm-arm.so:system/lib/libllvm-arm.so \
 	vendor/huawei/u8800/pulled/system/lib/libOpenCL.so:system/lib/libOpenCL.so \
 	vendor/huawei/u8800/pulled/system/lib/libOpenVG.so:system/lib/libOpenVG.so \
 	vendor/huawei/u8800/pulled/system/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
-	vendor/huawei/u8800/pulled/system/lib/libsc-a3xx.so:system/lib/libsc-a3xx.so \
 	vendor/huawei/u8800/pulled/system/etc/firmware/vidc_720p_command_control.fw:system/etc/firmware/vidc_720p_command_control.fw \
 	vendor/huawei/u8800/pulled/system/etc/firmware/vidc_720p_h263_dec_mc.fw:system/etc/firmware/vidc_720p_h263_dec_mc.fw \
 	vendor/huawei/u8800/pulled/system/etc/firmware/vidc_720p_h264_dec_mc.fw:system/etc/firmware/vidc_720p_h264_dec_mc.fw \
