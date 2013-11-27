@@ -21,7 +21,8 @@ PRODUCT_COPY_FILES += \
 	vendor/huawei/u8800/pulled/system/lib/libnv.so:obj/lib/libnv.so \
 	vendor/huawei/u8800/pulled/system/lib/liboncrpc.so:obj/lib/liboncrpc.so \
 	vendor/huawei/u8800/pulled/system/lib/libaudcal.so:obj/lib/libaudcal.so \
-	vendor/huawei/u8800/pulled/system/lib/libaudioalsa.so:obj/lib/libaudioalsa.so
+	vendor/huawei/u8800/pulled/system/lib/libaudioalsa.so:obj/lib/libaudioalsa.so \
+	vendor/huawei/u8800/pulled/system/lib/libmmjpeg.so:obj/lib/libmmjpeg.so
 
 PRODUCT_COPY_FILES += \
 	vendor/huawei/u8800/pulled/system/bin/rmt_storage:system/bin/rmt_storage \
@@ -88,4 +89,12 @@ PRODUCT_COPY_FILES += \
 	vendor/huawei/u8800/pulled/system/etc/firmware/wlan/qcom_wapi_fw.bin:system/etc/firmware/wlan/qcom_wapi_fw.bin \
 	vendor/huawei/u8800/pulled/system/etc/firmware/wlan/qcom_wlan_nv.bin:system/etc/firmware/wlan/qcom_wlan_nv.bin \
 	vendor/huawei/u8800/pulled/system/lib/modules/wlan.ko:system/lib/modules/wlan.ko \
-	vendor/huawei/u8800/pulled/system/bin/hci_qcomm_init:system/bin/hci_qcomm_init
+	vendor/huawei/u8800/pulled/system/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
+	vendor/huawei/u8800/pulled/system/lib/libchromatix_s5k4e1gx_p_default_video.so:system/lib/libchromatix_s5k4e1gx_p_default_video.so \
+	vendor/huawei/u8800/pulled/system/lib/libchromatix_s5k4e1gx_p_preview.so:system/lib/libchromatix_s5k4e1gx_p_preview.so \
+	vendor/huawei/u8800/pulled/system/lib/libchromatix_ov5647_sunny_preview.so:system/lib/libchromatix_ov5647_sunny_preview.so \
+	vendor/huawei/u8800/pulled/system/lib/libchromatix_ov5647_sunny_default_video.so:system/lib/libchromatix_ov5647_sunny_default_video.so \
+	vendor/huawei/u8800/pulled/system/lib/libgemini.so:system/lib/libgemini.so \
+	vendor/huawei/u8800/pulled/system/lib/libmmipl.so:system/lib/libmmipl.so \
+	vendor/huawei/u8800/pulled/system/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
+	vendor/huawei/u8800/pulled/system/lib/liboemcamera.so:system/lib/liboemcamera.so
