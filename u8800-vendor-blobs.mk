@@ -30,7 +30,6 @@ PRODUCT_COPY_FILES += \
 	vendor/huawei/u8800/pulled/system/bin/netmgrd:system/bin/netmgrd \
 	vendor/huawei/u8800/pulled/system/bin/qmuxd:system/bin/qmuxd \
 	vendor/huawei/u8800/pulled/system/lib/libril-qc-1.so:system/lib/libril-qc-1.so \
-	vendor/huawei/u8800/pulled/system/lib/libril.so:system/lib/libril.so \
 	vendor/huawei/u8800/pulled/system/lib/libauth.so:system/lib/libauth.so \
 	vendor/huawei/u8800/pulled/system/lib/libcm.so:system/lib/libcm.so \
 	vendor/huawei/u8800/pulled/system/lib/libdiag.so:system/lib/libdiag.so \
